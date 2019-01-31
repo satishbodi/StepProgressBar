@@ -30,9 +30,25 @@ Example
 # How to use?
 StepProgressBar can be added to your project as a Library module.
 
+It supports the below customizations through attributes:
+ 
+      "checkoutStepTitlesList" format="reference" - List of title texts
+      "checkoutStepTitleTextSize" format="dimension" - Title text size
+      "checkoutStepTitleTextColor" format="color" - Title text color
+      "checkoutStepTotalSteps" format="integer" - Number of steps
+      "checkoutStepBackgroundColor" format="color" - Background color
+      "checkoutStepCompletedDrawable" format="reference" - Drawable for completed state
+      "checkoutStepCurrentDrawable" format="reference" - Drawable for Current state
+      "checkoutStepFutureDrawable" format="reference" - Drawable for future state
+      "checkoutStepCompletedLineColor" format="color" - Color of completed line
+      "checkoutStepFutureLineColor" format="color" - Color of future line
+      "checkoutStepLineHeight" format="dimension" - Height of line
+      "checkoutStepCircleRadius" format="dimension" - Circle radius
+    
+    
 License
 ========
-    Copyright 2019 Satish bodi
+    Copyright 2019 Satish Bodi
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
