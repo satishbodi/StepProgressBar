@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="default_line_height">2dp</dimen>
+    <dimen name="default_text_size">10sp</dimen>
+    <dimen name="dimen_15dp">10dp</dimen>
+</resources>

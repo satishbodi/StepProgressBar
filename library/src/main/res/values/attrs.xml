@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StepProgressBar">
+        <attr name="stepProgressBarTitlesList" format="reference"/>
+        <attr name="stepProgressBarTitleTextSize" format="dimension"/>
+        <attr name="stepProgressBarTitleTextColor" format="color"/>
+        <attr name="stepProgressBarTotalSteps" format="integer"/>
+        <attr name="stepProgressBarBackgroundColor" format="color"/>
+        <attr name="stepProgressBarCompletedDrawable" format="reference"/>
+        <attr name="stepProgressBarCurrentDrawable" format="reference"/>
+        <attr name="stepProgressBarFutureDrawable" format="reference"/>
+        <attr name="stepProgressBarCompletedLineColor" format="color"/>
+        <attr name="stepProgressBarFutureLineColor" format="color"/>
+        <attr name="stepProgressBarLineHeight" format="dimension"/>
+        <attr name="stepProgressBarCircleRadius" format="dimension"/>
+        <attr name="stepProgressBarTitleFont" format="string"/>
+    </declare-styleable>
+</resources>

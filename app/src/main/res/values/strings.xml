@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StepProgressBar</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="step_progress_titles">
+        <item>Step 1</item>
+        <item>Step 2</item>
+        <item>Step 3</item>
+    </string-array>
+</resources>
