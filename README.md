@@ -2,7 +2,7 @@
 This custom StepView displays progress through a series of steps. It places the steps with equal padding based on number of steps and available width.
 
 # Screenshots
-
+![StepProgressBar](https://github.com/satishbodi/StepProgressBar/blob/master/ScreenShots/SS1.png)
 
 Example
 ==========
