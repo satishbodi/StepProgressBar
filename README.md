@@ -3,6 +3,8 @@ This custom StepView displays progress through a series of steps. It places the 
 
 # Screenshots
 ![StepProgressBar](https://github.com/satishbodi/StepProgressBar/blob/master/ScreenShots/SS1.png)
+![StepProgressBar2](https://github.com/satishbodi/StepProgressBar/blob/master/ScreenShots/SS2.png)
+![StepProgressBar3](https://github.com/satishbodi/StepProgressBar/blob/master/ScreenShots/SS3.png)
 
 Example
 ==========
